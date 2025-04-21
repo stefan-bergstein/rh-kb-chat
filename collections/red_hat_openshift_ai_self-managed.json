@@ -48,46 +48,6 @@
       ]
     },
     {
-      "version_number": "2.13",
-      "store_directive": "update",
-      "sources": [
-        {
-          "ingestion_type": "redhat_doc",
-          "language": "en-US"
-        }
-      ]
-    },
-    {
-      "version_number": "2.11",
-      "store_directive": "delete",
-      "sources": [
-        {
-          "ingestion_type": "redhat_doc",
-          "language": "en-US"
-        }
-      ]
-    },
-    {
-      "version_number": "2.10",
-      "store_directive": "delete",
-      "sources": [
-        {
-          "ingestion_type": "redhat_doc",
-          "language": "en-US"
-        }
-      ]
-    },
-    {
-      "version_number": "2.8",
-      "store_directive": "delete",
-      "sources": [
-        {
-          "ingestion_type": "redhat_doc",
-          "language": "en-US"
-        }
-      ]
-    },
-    {
       "version_number": "2-latest",
       "store_directive": "delete",
       "sources": [
